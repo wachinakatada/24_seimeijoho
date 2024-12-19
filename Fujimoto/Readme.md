@@ -13,8 +13,13 @@
 琉球大学ウェブクラスの生命情報科学の項目内にアップロードしました。
 「解析環境整備（担当：藤本）」の項目から、PDF資料をダウンロードして準備してください。  
 https://webclass.cc.u-ryukyu.ac.jp/webclass/login.php
- 
   
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+  
+
 ### 2. ファイル転送とリモート接続ツールの紹介   
 ### (Mac, Linux の場合, Windowsは後述する"3"を参照)  
 
@@ -30,6 +35,7 @@ Dockに追加しておくと便利かもしれません。
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
   
 ### 3. ファイル転送とリモート接続ツールの紹介 (Windowsの場合)  
 
@@ -39,6 +45,7 @@ Dockに追加しておくと便利かもしれません。
 **Putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html**  
 他のコンピュータにリモート接続するためのクライアントソフト。
   
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;

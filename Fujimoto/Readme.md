@@ -20,8 +20,7 @@ https://webclass.cc.u-ryukyu.ac.jp/webclass/login.php
 &nbsp;
   
 
-### 2. ファイル転送とリモート接続ツールの紹介   
-### (Mac, Linux の場合, Windowsは後述する"3"を参照)  
+### 2. ファイル転送とリモート接続ツールの紹介 (Mac, Linux の場合)
 
 **Filezilla: https://filezilla-project.org/**  
 個人のPCと計算機サーバー間で、ファイルのアップロード/ダウンロードを
@@ -51,7 +50,12 @@ Dockに追加しておくと便利かもしれません。
 &nbsp;
   
 ### 4. UNIXコマンドの実行と共有フォルダの確認
-[xxxxx@server.address ~]$ ls /mnt/bioInfo2024_share
+  
+サーバーを操作するにあたっては、UNIXコマンドと呼ばれる  
+下記のような英数文字を組み合わせた文字列をキーボードで入力して実行したい操作を指定します。  
+ls /mnt/bioInfo2024_share
+
+UNIXコマンドの詳細については、次の「プログラミングの基礎（担当：和智先生）」の項目で確認していきます。
   
 &nbsp;
 &nbsp;

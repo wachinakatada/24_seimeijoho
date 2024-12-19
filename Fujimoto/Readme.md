@@ -15,7 +15,8 @@
 https://webclass.cc.u-ryukyu.ac.jp/webclass/login.php
  
   
-### 2. ファイル転送とリモート接続ツールの紹介 (Mac, Linux の場合, Windowsは後述する"3"を参照)
+### 2. ファイル転送とリモート接続ツールの紹介   
+### (Mac, Linux の場合, Windowsは後述する"3"を参照)  
 
 **Filezilla: https://filezilla-project.org/**  
 個人のPCと計算機サーバー間で、ファイルのアップロード/ダウンロードを
@@ -25,8 +26,11 @@ https://webclass.cc.u-ryukyu.ac.jp/webclass/login.php
 MacやLinuxでは、デフォルトでインストールされたコマンドライン操作のツールを使用して、
 計算機サーバーと接続して操作します。検索窓に「Terminal」と入力すると実行画面が表示されます。  
 Dockに追加しておくと便利かもしれません。
-
-
+  
+&nbsp;
+&nbsp;
+&nbsp;
+  
 ### 3. ファイル転送とリモート接続ツールの紹介 (Windowsの場合)  
 
 **Filezilla: https://filezilla-project.org/**  
@@ -35,9 +39,14 @@ Dockに追加しておくと便利かもしれません。
 **Putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html**  
 他のコンピュータにリモート接続するためのクライアントソフト。
   
+&nbsp;
+&nbsp;
+&nbsp;
   
 ### 4. UNIXコマンドの実行と共有フォルダの確認
 [xxxxx@server.address ~]$ ls /mnt/bioInfo2024_share
-
-
-
+  
+&nbsp;
+&nbsp;
+&nbsp;
+  

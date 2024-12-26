@@ -4,7 +4,7 @@
 ## 0)事前の準備
 Tera TermまたはPuTTYのインストール(Windows)。  
 FileZillaまたはWinSCP(Windows)またはCyberduck(Mac)のインストール。  
-SplitTree4のインストール ( https://software-ab.informatik.uni-tuebingen.de/download/splitstree4/welcome.html )
+SplitTree4のインストール ( [link](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/splitstree/) )
 。
 
 以下のソフトウェアのインストールはサーバーを使う場合には不要
